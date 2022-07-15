@@ -8,5 +8,4 @@
 
 ## Desafio:
 
-### Esse desafio foi proposto pela professora Karen Santos no Bootcamp da Santander para 
-### formação como Fullstack Developer.
+### Esse desafio foi proposto por Karen Santos para o Bootcamp Santander Fullstack Developer.  
